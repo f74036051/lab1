@@ -1,0 +1,12 @@
+Script started on 2015年03月13日 (週五) 19時59分35秒
+]0;F74036051@2015cpp: ~F74036051@2015cpp:~$ whoami;pwd
+F74036051
+/home/F74036051
+]0;F74036051@2015cpp: ~F74036051@2015cpp:~$ git config -l
+user.name=f74036051
+user.email=f74036051@ncku.edu.tw
+]0;F74036051@2015cpp: ~F74036051@2015cpp:~$ git clone https://gitbu[K[Kub.com/f740360 51/lab1.git
+fatal: destination path 'lab1' already exists and is not an empty directory.
+]0;F74036051@2015cpp: ~F74036051@2015cpp:~$ exit
+
+Script done on 2015年03月13日 (週五) 20時00分22秒
